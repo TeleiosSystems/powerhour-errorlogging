@@ -41,6 +41,5 @@ Requirements 2:
 
 1. Create unit tests for all previous requirements.
 For all reqs going forward use these tests and add to them, where possible.
-2. Enable filtered log sending (send logs to different places, depending on filter).
-3. Enable logging to the event log
-4. Use logger in a web project
+2. Send logs to different destinations, depending on category.
+3. Enable reading a log to the event log

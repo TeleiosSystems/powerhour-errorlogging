@@ -1,0 +1,6 @@
+packages
+.vs
+Liquid/bin
+Liquid/obj
+Solid/ErrorNotifier/obj
+Solid/ErrorNotifier/bin

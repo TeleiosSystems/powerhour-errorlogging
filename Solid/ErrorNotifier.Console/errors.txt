@@ -1,0 +1,3 @@
+﻿Null reference, A null reference occured on line 28 of SmoothOperator.cs, 2016-06-15T13:45:30
+Null reference, A null reference occured on line 28 of SmoothOperator.cs, 2016-06-15T17:55:30
+Argument Exception, Invalid argument ion line 56 of SmoothOperator.cs, 2016-06-17T17:55:30

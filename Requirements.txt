@@ -1,0 +1,28 @@
+Error Log Sender App
+
+Request 1
+Send error logs via email to a manager. 
+Read a text file with errors logs, the file will have the following format in each line
+[title], [message], [timestamp]
+Once the file is read an email with the list of errors will be sent to a manager.
+
+Request 2
+Support XML formatted error logs. The XML file will contain the following format
+<errors>
+                <error>
+                                <title>[title]</title>
+                                <message>[message]</message>
+                                <timestamp>[timestamp]</timestamp>
+                </error>
+                <error>
+                                <title>[title]</title>
+                                <message>[message]</message>
+                                <timestamp>[timestamp]</timestamp>
+                </error>
+</errors>
+
+Request 3
+Support logs stored in a database. The DB will have an error table with title, message and timestamp.
+
+Request 4
+Support posting the error messages to Slack/ Teams as well as sending email.

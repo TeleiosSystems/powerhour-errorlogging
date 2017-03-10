@@ -1,0 +1,50 @@
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe.config
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\errors.txt
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.pdb
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\ErrorNotifier.dll
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\ErrorNotifier.pdb
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.csprojResolveAssemblyReference.cache
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.exe
+C:\Users\asingh\documents\visual studio 2015\Projects\ErrorNotifier\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.pdb
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe.config
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.exe
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.pdb
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\errors.txt
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.pdb
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\ErrorNotifier.dll
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\ErrorNotifier.pdb
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Development\SVTFS001\PowerHours\s01e06\dont-skip-log-day\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.csprojResolveAssemblyReference.cache
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe.config
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.exe
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.pdb
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\errors.txt
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.exe
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\ErrorNotifier.Console.pdb
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\ErrorNotifier.dll
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\ErrorNotifier.pdb
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\PowerHours\s01e06\dont-skip-log-day\Solid\ErrorNotifier.Console\obj\Debug\ErrorNotifier.Console.csprojResolveAssemblyReference.cache

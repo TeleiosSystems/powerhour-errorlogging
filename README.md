@@ -6,7 +6,7 @@ There'll be two starting projects, one that has a more SOLID approach and one th
 The episode will focus on how easy or not, it is to extend initial requirements having started off with SOLID. 
 The requirements are listed below. The episode will focus on making Requirements 2 come to life.
 
-#Requirements 1: 
+#Requirement 1: 
 Error Log Sender App
 
 Request 1
@@ -36,8 +36,7 @@ Support logs stored in a database. The DB will have an error table with title, m
 Request 4
 Support posting the error messages to Slack/ Teams as well as sending email.
 
-#Requirements 2:
-Requirements 2:
+#Requirement 2:
 
 1. Create unit tests for all previous requirements.
 For all reqs going forward use these tests and add to them, where possible.

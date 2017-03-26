@@ -6,6 +6,8 @@ There'll be two starting projects, one that has a more SOLID approach and one th
 The episode will focus on how easy or not, it is to extend initial requirements having started off with SOLID. 
 The requirements are listed below. The episode will focus on making Requirements 2 come to life.
 
+Episode can be viewed here: https://www.youtube.com/watch?v=GoKA54p3lmw 
+
 #Requirements 1: 
 Error Log Sender App
 
